@@ -1,0 +1,21 @@
+background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(167, 163, 240, 1) 83%, rgba(149, 187, 233, 1) 99%, rgba(148, 187, 233, 1) 100%);
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.question {
+    background-color: #8b7ee4;
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #e6bdf4;
+}
+
